@@ -83,7 +83,6 @@ class EcommerceResultados():
 
     def historico(self):
         self.acessar_carrinho()
-        self.pegar_elemento(ComponentesEcommerce.preco_carrinho)
 
 
 
